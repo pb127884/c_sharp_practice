@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wDzI7egcCsCn9cnaSbJrEIlI57AbG35o3L9aKwAMf5/aY8nWEq+PeVUEqi2UK2LeMgFp0e32Eal4gzapAne+fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\GitUpload\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

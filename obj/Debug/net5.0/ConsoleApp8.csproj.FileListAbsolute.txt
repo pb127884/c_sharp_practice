@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ConsoleApp8.exe
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ConsoleApp8.deps.json
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.json
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ConsoleApp8.dll
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\Asus\Desktop\GitUpload\bin\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.dll
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\Asus\Desktop\GitUpload\obj\Debug\net5.0\ConsoleApp8.genruntimeconfig.cache
